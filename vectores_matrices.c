@@ -4,7 +4,7 @@ int main() {
     int i, j;
     float notas[7][3];
     float suma;
-    printf(" Se añade en este programa el ingreso de notas de 7 estudiantes en 3 asignaturas");
+
     // Ingreso de notas con validación
     for(i = 0; i < 7; i++) {
         printf("\nEstudiante %d:\n", i + 1);
